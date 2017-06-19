@@ -14,6 +14,7 @@ namespace AlmacenPepito
 	{
 		public static void Main(string[] args)
 		{
+			Articulo art=new Articulo(1,"A",20,5,2,(float) 12.3,1);
 			Console.WriteLine("Hello World!");
 			
 			// TODO: Implement Functionality Here

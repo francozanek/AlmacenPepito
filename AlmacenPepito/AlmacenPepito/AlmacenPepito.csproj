@@ -48,6 +48,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="artic.cs" />
     <Compile Include="Cliente.cs" />
     <Compile Include="MovimientosHistoricos.cs" />
     <Compile Include="Program.cs" />
