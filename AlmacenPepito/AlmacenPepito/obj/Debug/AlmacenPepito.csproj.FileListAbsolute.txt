@@ -1,0 +1,6 @@
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.csprojResolveAssemblyReference.cache
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe.config
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.exe
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\bin\Debug\AlmacenPepito.pdb
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.exe
+F:\Franco\OptativaC#\Codigo\AlmacenPepito\AlmacenPepito\obj\Debug\AlmacenPepito.pdb
