@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="artic.cs" />
     <Compile Include="Cliente.cs" />
+    <Compile Include="ManejarListaArticulos.cs" />
     <Compile Include="MovimientosHistoricos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
