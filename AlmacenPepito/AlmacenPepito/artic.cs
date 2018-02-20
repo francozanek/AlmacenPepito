@@ -59,8 +59,8 @@ namespace AlmacenPepito
 			
 			Console.WriteLine("Código: {0} nombre {1} precio {2} cantidad en stock {3}", codigo, nombre, precio, stockR);
 								
-			Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
+			//Console.Write("Presione cualquier tecla para continuar . . . ");
+			//Console.ReadKey(true);
 			
 			Console.WriteLine();
 		}

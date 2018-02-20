@@ -33,8 +33,11 @@ namespace AlmacenPepito
 		}
 		
 		public void todosLosArticulos(){
-			foreach(Articulo item in articulos){
-				Console.WriteLine(item.Codigo+"   "+ item.Nombre);
+			if (articulos.Count==0)
+				Console.WriteLine("Lista vacía");
+			else
+				foreach(Articulo item in articulos){
+				item.mostrar_estado();
 			}
 		}
 		
