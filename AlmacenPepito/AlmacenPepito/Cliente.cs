@@ -33,5 +33,14 @@ namespace AlmacenPepito
 			get{ return nombre;}
 			set{ nombre =value;}
 		}
+		public  void mostrar_estado(){
+			
+			Console.WriteLine("Código: {0} nombre {1}", idCliente, nombre);
+								
+			//Console.Write("Presione cualquier tecla para continuar . . . ");
+			//Console.ReadKey(true);
+			
+			Console.WriteLine();
+		}
 	}
 }
